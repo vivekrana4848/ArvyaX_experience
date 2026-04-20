@@ -228,17 +228,9 @@ flutter build ipa --release
 
 **Vivek** — Flutter Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-@your--username-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-@vivekrana4848-181717?style=for-the-badge&logo=github)](https://github.com/vivekrana4848)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-rana-a3401823a)
 
 *Built with 🖤 using Flutter & clean architecture principles.*
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **If you find this useful, drop a star — it means a lot!**
 
 </div>

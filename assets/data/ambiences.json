@@ -1,0 +1,70 @@
+{
+  "ambiences": [
+    {
+      "id": "001",
+      "title": "Forest Rain",
+      "tag": "Calm",
+      "duration": 1800,
+      "description": "Surrender to the gentle percussion of rain on ancient leaves. This soundscape wraps you in the quiet intelligence of a forest breathing — each drop a whisper, each moment a return to stillness.",
+      "audioAsset": "assets/audio/1.mp3",
+      "imageAsset": "assets/images/forest.png",
+      "sensoryChips": ["Mist", "Earthy", "Cool", "Soft"],
+      "bpm": 60
+    },
+    {
+      "id": "002",
+      "title": "Ocean Waves",
+      "tag": "Sleep",
+      "duration": 2700,
+      "description": "Let the ancient rhythm of the sea dissolve tension from your body. Ocean waves carry millions of years of wisdom — each cycle drawing you deeper into restorative rest.",
+      "audioAsset": "assets/audio/2.mp3",
+      "imageAsset": "assets/images/ocean.png",
+      "sensoryChips": ["Breeze", "Salt", "Rhythmic", "Vast"],
+      "bpm": 55
+    },
+    {
+      "id": "003",
+      "title": "Deep Space",
+      "tag": "Focus",
+      "duration": 3600,
+      "description": "Enter the infinite silence between stars. Space is not empty — it hums with cosmic frequencies that expand consciousness and dissolve the noise of ordinary thinking.",
+      "audioAsset": "assets/audio/3.mp3",
+      "imageAsset": "assets/images/stars.png",
+      "sensoryChips": ["Infinite", "Still", "Electric", "Vast"],
+      "bpm": 50
+    },
+    {
+      "id": "004",
+      "title": "Mountain Wind",
+      "tag": "Reset",
+      "duration": 1200,
+      "description": "Feel the clarity of high-altitude winds cutting through mental fog. Mountain air carries an elemental freshness that resets your nervous system and awakens your senses.",
+      "audioAsset": "assets/audio/4.mp3",
+      "imageAsset": "assets/images/wind.png",
+      "sensoryChips": ["Crisp", "Wild", "Elevating", "Free"],
+      "bpm": 65
+    },
+    {
+      "id": "005",
+      "title": "Night Crickets",
+      "tag": "Sleep",
+      "duration": 3600,
+      "description": "The ancient lullaby of crickets has accompanied human sleep for millennia. This biophilic chorus synchronizes your brainwaves to the slow pulse of a summer night.",
+      "audioAsset": "assets/audio/5.mp3",
+      "imageAsset": "assets/images/fire.png",
+      "sensoryChips": ["Warm", "Rhythmic", "Alive", "Safe"],
+      "bpm": 58
+    },
+    {
+      "id": "006",
+      "title": "Tibetan Bowls",
+      "tag": "Focus",
+      "duration": 2400,
+      "description": "Centuries-old resonance healing meets modern mindfulness. Each harmonic overtone from these sacred bowls dissolves mental chatter and guides you into present-moment awareness.",
+      "audioAsset": "assets/audio/6.mp3",
+      "imageAsset": "assets/images/garden.png",
+      "sensoryChips": ["Resonant", "Sacred", "Warm", "Clear"],
+      "bpm": 52
+    }
+  ]
+}
